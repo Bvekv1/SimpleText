@@ -12,7 +12,7 @@
         android:id="@+id/etFirst"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="20dp"
+        android:layout_margin="21dp"
         android:hint="Enter First Number" />
     <EditText
         android:id="@+id/etSecond"
